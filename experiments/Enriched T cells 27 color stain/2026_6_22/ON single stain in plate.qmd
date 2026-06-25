@@ -1,0 +1,38 @@
+---
+title: "Overnight Single Color Controls at Low Concentration"
+theme: darkly
+author: "Cyrus Martinian"
+date: 2026-06-24
+toc: TRUE
+---
+
+# Background Information
+
+In order to optimize the panel for overnight staining, it is nessecery to determine the appropriate antibody titrations to be used. Since the overnight stain involves much longer incubation time, it is likely that the original antibody quantities used will cause staining that is too bright or contribute to non-specific staining.
+
+Single color controls could also be used to unmix the full cocktail sample that was incubated overnight at these lower concentrations.
+
+# Protocol to Prepare Single Color Controls
+
+## Day 1
+
+1.  All antibodies that were used in the panel, as well as TruStain FcX blocking buffer were centrifuged at 4000 rpm for 1 minute
+2.  Enriched T cell sample was obtained and 150 uL per stain to be run (total of 26 colors, so about 4 mL) was aliquoted into a 5 mL FACS tube.
+
+*note* it was later observed that the cells in the sample provided were not in good condition, and a large portion of them appeared to be dead. There were also visible white/grey chunks floating in the solution the cells were provided in.
+
+3.  20 uL of TruStain FcX was added to the FACS tube, sample was incubated in the fridge for a minimum of 5 minutes
+
+4.  After incubation, 150 uL of the cell sample was aliquoted into 26 wells of a 96-well plate, followed by addition of antibody. The sample and antibody were added at the locations and amounts dictated by the following:
+
+    ![](images/96-well%20plate.svg){width="542"}
+
+5.  The well plate was placed in the fridge to incubate overnight (19 hours)
+
+## Day 2
+
+6.  The well plate was removed from the fridge following incubation, and 100 uL of running buffer was added to each well that contained cells
+
+7.  The well plate was centrifuged at 300xg for 5 minutes to wash cells, supernatent was discarded and cells were resuspended in 180 uL of running buffer.
+
+8.  Samples from each well were aspirated to mix, then pipetted into 5 mL FACS tubes to be analyzed with the Aurora-4 spectral cytometer

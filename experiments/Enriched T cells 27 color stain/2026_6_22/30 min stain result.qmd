@@ -1,0 +1,20 @@
+---
+title: "Results of 30-Minute Full Panel & Backbone Stains"
+author: "Cyrus Martinian"
+date: 2026-06-22
+theme: darkly
+toc: TRUE
+---
+
+# Result of 30 Minute Backbone Stain of Enriched T cells
+The enriched T cells that were incubated for 30 minutes in the backbone antibody stain cocktail were analyzed with the Aurora 4 spectral cytometer. Antibodies in the backbone cocktail were included based on the fact that they typically stain well and provide good resolution between positive and negative populations with standard staining and sequential staining. Therefore, it was predicted that populations would be easy to resolve for all markers in this stain. This prediction proved correct, as can be seen by the figures below.
+
+Unmixing was done using previously collected single stain contols (of cells or beads), and the unstained sample collected from the same batch of thawed enriched T cells as was stained. 
+
+**insert images of backbone stain populations here**
+
+
+# Result of 30 Minute Full Panel Stain of Enriched T Cells
+The enriched T cells that were incubated for 30 minutes in the full panel (27 color) cocktail of antibodies were also analyzed with the Aurora 4 spectral cytometer. This panel had previously been run with a sequential staining protocol, wherein some antibody stains were added to the cell same earlier than others, based on reduced marker binding affinity or rarity of the marker. Somewhat surprisingly, most markers did still show resolution of positive and negative populations, although some were more clearly defined than others. 
+
+**insert images of full panel stain populations here**
