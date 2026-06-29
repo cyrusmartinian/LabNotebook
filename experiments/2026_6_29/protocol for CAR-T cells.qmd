@@ -1,0 +1,43 @@
+---
+title: "Protocol for CAR-T Cell 30 Minute & Overnight Staining"
+author: "Cyrus Martinian"
+date: 2026-06-29
+toc: TRUE
+theme: darkly
+---
+
+# Backbone Stain Protocol for Enriched T Cells
+
+## Day 1
+
+1.  Cryopreserved CAR-T cells were thawed, centrifuged, and resuspended in a minimal amount of buffer solution. Some sample was aliquoted out to serve as unstained control (UN).
+2.  2 uL CAR-T detection was added to remaining cell solution. Cells were incubated for 15 minutes in the fridge, then washed with 1 mL of RB, centrifuged at 300 xg for 5 minutes, and resuspended in minimal RB. 
+3.  Fluorophore - conjugated antibodies, TruStain FcX (Fc blocking buffer), and SuperBright buffer (to mitigate aggregation of antibodies) were centrifuged at 4000 rpm for 1 minute
+4.  5 uL of TruStain FcX was added to the total CAR-T cell sample volume, cell sample was incubated for at least 5 minutes in the fridge.
+5.  The backbone cocktail (antibodies known to stain well for this panel) was prepared for 2 samples, according to the following table (the volumes of antibody listed are per sample). 2 uL of SuperBright was added to the eppendorf tube prior to antibodies to mitigate aggregation.
+
+| Marker | Fluorophore     | Volume (uL) |
+|--------|-----------------|-------------|
+| CD62L  | BUV395          | 5           |
+| CD4    | BUV496          | 3           |
+| CD8    | BUV510          | 2           |
+| CD45RO | BV570           | 5           |
+| CD3    | Spark Blue 550  | 5           |
+| CD45RA | Alexa Fluor 700 | 1           |
+| Biotin | PE              | 2           |
+| CD19   | Real Red 668    | 5           |
+
+6. CAR-T cell sample was aliquoted into 3 5 mL FACS tubes, tubes were labled UN (unstained), BB-30 minute (backbone stain, 30 minute incubation), and BB-ON (backbone stain, overnight).
+7. 27 uL of BB cocktail was add to the BB-30 minute and BB-ON samples
+8. BB-30 minute was placed in fridge to incubate for 30 minutes, and BB-ON was placed in fridge to incubate overnight, UN was also placed in fridge.
+9. After incubation, 1 mL of running buffer was added to BB-30 tube, and UN tube. Tubes were then centrifuged at 300xg for 5 minutes, supernatent was discarded.
+10. Pellets were resuspended in 180 uL of running buffer
+11. 5 uL of 7-AAD viability dye was added to BB-30 tube and tube was placed in fridge to incubate for 5 minutes. 
+12. BB-30, UN, and full stain (prepared by Rediet & Rubi) were run using the Aurora-4 Spectral Cytometer
+
+## Day 2
+13. BB-ON tube was retrieved from fridge, 1 mL of running buffer was added and sample was centrifuged at 300xg for 5 minutes, supernatent was discarded
+14. pellet was resuspended in 180 uL of running buffer
+15. 5 uL of 7-AAD viability dye was added to BB-ON tube
+16. BB-ON tube was placed in fridge to incubate for 5 minutes
+17. BB-ON and full stain incubated overnight were run using the Aurora-4 Spectral Cytometer
