@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Cyrus Martinian">
-<meta name="dcterms.date" content="2026-06-23">
 
-<title>Backbone Stain Protocol</title>
+<title>Lab Notebook</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -28,151 +26,156 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="backbone stain_files/libs/clipboard/clipboard.min.js"></script>
-<script src="backbone stain_files/libs/quarto-html/quarto.js" type="module"></script>
-<script src="backbone stain_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="backbone stain_files/libs/quarto-html/popper.min.js"></script>
-<script src="backbone stain_files/libs/quarto-html/tippy.umd.min.js"></script>
-<script src="backbone stain_files/libs/quarto-html/anchor.min.js"></script>
-<link href="backbone stain_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="backbone stain_files/libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="backbone stain_files/libs/bootstrap/bootstrap.min.js"></script>
-<link href="backbone stain_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="backbone stain_files/libs/bootstrap/bootstrap-580f59859ddf617fe2e58b4aca1d3752.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-71c65693e7f4a163fb8d18487164b5a3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
 
 
+<link rel="stylesheet" href="styles.scss">
 </head>
 
-<body class="quarto-light">
+<body class="nav-sidebar floating nav-fixed fullcontent quarto-light">
 
-<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
-<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-  <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of contents</h2>
-   
-  <ul>
-  <li><a href="#background-information" id="toc-background-information" class="nav-link active" data-scroll-target="#background-information">Background Information</a></li>
-  <li><a href="#backbone-stain-protocol-for-enriched-t-cells" id="toc-backbone-stain-protocol-for-enriched-t-cells" class="nav-link" data-scroll-target="#backbone-stain-protocol-for-enriched-t-cells">Backbone Stain Protocol for Enriched T Cells</a>
-  <ul class="collapse">
-  <li><a href="#day-1" id="toc-day-1" class="nav-link" data-scroll-target="#day-1">Day 1</a></li>
-  <li><a href="#day-2" id="toc-day-2" class="nav-link" data-scroll-target="#day-2">Day 2</a></li>
-  </ul></li>
-  </ul>
-</nav>
-</div>
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Backbone Stain Protocol</h1>
-</div>
-
-
-
-<div class="quarto-title-meta">
-
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Cyrus Martinian </p>
-          </div>
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/hex.svg" alt="" class="navbar-logo light-content">
+    <img src="./images/hex.svg" alt="" class="navbar-logo dark-content">
+    </a>
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Lab Notebook</span>
+    </a>
   </div>
-    
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">June 23, 2026</p>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./experiments/Enriched T cells 27 color stain/2026_6_22/backbone stain.html"> 
+<span class="menu-text">Experiments</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.youtube.com/@CytometryInR"> <i class="bi bi-youtube" role="img" aria-label="YouTube">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/CyrusMartinian/LabNotebook"> <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Tutorial</a></li><li class="breadcrumb-item"><a href="./index.html">Getting Started</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
     </div>
-  </div>
-  
-    
-  </div>
-  
-
-
+  </nav>
+  <div id="quarto-announcement" data-announcement-id="b60c63f405301e0fe669fe5b9f222add" class="alert alert-info hidden"><i class="bi bi-info-circle quarto-announcement-icon"></i><div class="quarto-announcement-content">
+<p>Thanks for your editing contributions!</p>
+</div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
 </header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Tutorial</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Getting Started</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Tutorial</a></li><li class="breadcrumb-item"><a href="./index.html">Getting Started</a></li></ol></nav></header>
 
 
-<section id="background-information" class="level1">
-<h1>Background Information</h1>
-<p>In an effort to optimize a high-parameter flow cytometry panel, previously run using sequential staining (cocktail 1, backbone, and cocktail 2), the backbone group of antibodies:fluorophore conjugates as well as the full stain were prepared at the previously tested antibody volume &amp; concentration, and incubated for 30 minutes, as well as overnight.</p>
-</section>
-<section id="backbone-stain-protocol-for-enriched-t-cells" class="level1">
-<h1>Backbone Stain Protocol for Enriched T Cells</h1>
-<section id="day-1" class="level2">
-<h2 class="anchored" data-anchor-id="day-1">Day 1</h2>
-<ol type="1">
-<li>Cryopreserved enriched T cells were thawed, centrifuged, and resuspended in a minimal amount of buffer solution</li>
-<li>Fluorophore - conjugated antibodies, TruStain FcX (Fc blocking buffer), and SuperBright buffer (to mitigate aggregation of antibodies) were centrifuged at 4000 rpm for 1 minute</li>
-<li>5 uL of TruStain FcX was added to the total enriched T cell sample volume, cell sample was incubated for at least 5 minutes in the fridge</li>
-<li>The backbone cocktail (antibodies known to stain well for this panel) was prepared for 2 samples, according to the following table (the volumes of antibody listed are per sample). 2 uL of SuperBright was added to the eppendorf tube prior to antibodies to mitigate aggregation.</li>
-</ol>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Marker</th>
-<th>Fluorophore</th>
-<th>Volume (uL)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>CD62L</td>
-<td>BUV395</td>
-<td>5</td>
-</tr>
-<tr class="even">
-<td>CD4</td>
-<td>BUV496</td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td>CD8</td>
-<td>BUV510</td>
-<td>2</td>
-</tr>
-<tr class="even">
-<td>CD45RO</td>
-<td>BV570</td>
-<td>5</td>
-</tr>
-<tr class="odd">
-<td>CD3</td>
-<td>Spark Blue 550</td>
-<td>5</td>
-</tr>
-<tr class="even">
-<td>CD45RA</td>
-<td>Alexa Fluor 700</td>
-<td>1</td>
-</tr>
-</tbody>
-</table>
-<ol start="5" type="1">
-<li>25 uL of enriched T cell sample was aliquoted into 3 5 mL FACS tubes, tubes were labled UN (unstained), BB-30 minute (backbone stain, 30 minute incubation), and BB-ON (backbone stain, overnight)</li>
-<li>20 uL of the backbone stain cocktail was added to the tubes labled BB-30 and BB-ON</li>
-<li>BB-ON tube was placed in the fridge and left to incubate for 19 hours (overnight), and BB-30 was placed in the fridge and left to incubate for 30 minutes.</li>
-<li>After 30 minutes, 1 mL of running buffer was added to BB-30 tube, and UN tube. Tubes were then centrifuged at 300xg for 5 minutes, supernatent was discarded</li>
-<li>Pellets were resuspended in 180 uL of running buffer</li>
-<li>5 uL of 7-AAD viability dye was added to both BB-30 and UN tubes (should not have been added to UN)</li>
-<li>BB-30 and UN tubes were incubated in the fridge for 5 minutes</li>
-<li>BB-30, UN, and full stain (prepared by <strong>NAME</strong>) were run using the Aurora-4 Spectral Cytometer</li>
-</ol>
-</section>
-<section id="day-2" class="level2">
-<h2 class="anchored" data-anchor-id="day-2">Day 2</h2>
-<ol start="13" type="1">
-<li>BB-ON tube was retrieved from fridge, 1 mL of running buffer was added and sample was centrifuged at 300xg for 5 minutes, supernatent was discarded</li>
-<li>pellet was resuspended in 180 uL of running buffer</li>
-<li>5 uL of 7-AAD viability dye was added to BB-ON tube</li>
-<li>BB-ON tube was placed in fridge to incubate for 5 minutes</li>
-<li>BB-ON, full stain-2 (at antibody concentrations previously tested, incubated overnight), and full stain-1 (at lower antibody concentrations, incubated overnight), were run using the Aurora-4 Spectral Cytometer</li>
-</ol>
-</section>
-</section>
 
-</main>
-<!-- /main column -->
+
+<p>This is a placeholder</p>
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -574,6 +577,19 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Made with <a href="https://quarto.org/">Quarto</a></p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 
