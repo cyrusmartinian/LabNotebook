@@ -1,0 +1,53 @@
+---
+title: "CAR T Cell Full Panel and Backbone Stain Attempt 2"
+author: "Cyrus Martinian"
+date: 2026-06-30
+theme: darkly
+toc: TRUE
+---
+
+CAR-T cells were thawed, centrifuged, and resuspended in minimal amount of buffer solution. Some sample was aliquoted out to serve as unstained control (UN). 1 uL CAR-T detection was added to remaining cell solution. Cells were incubated for 20 minutes in the fridge, then washed with 1 mL of RB, centrifuged at 300 xg for 5 minutes, and resuspended in 200 uL running buffer.
+
+5 uL of TruStain FcX was added to the total CAR-T cell sample volume, cell sample was incubated for 10 minutes in the fridge.  The backbone cocktail, without Biotin-PE and RR688 CAR detection antibodies, was prepared at *low* concentration according to the following table. 2 uL of SuperBright was added to the eppendorf tube prior to antibodies to mitigate aggregation. The removal of Biotin-PE and RR688 conjugated antibodies in the full cocktail was done because it was suspected that these antibodies might be interfering with the staining of other components of the backbone cocktail.  
+
+| Marker | Fluorophore     | Volume (uL) |
+|--------|-----------------|-------------|
+| CD62L  | BUV395          | 2           |
+| CD4    | BUV496          | 1           |
+| CD8    | BUV510          | 1           |
+| CD45RO | BV570           | 1           |
+| CD3    | Spark Blue 550  | 1           |
+| CD45RA | Alexa Fluor 700 | 1           |
+| Biotin | PE              | 1           |
+| CD19   | Real Red 668    | 2           |
+
+After incubation with FcX, 120 uL of the sample was aliquoted to serve in the 3 backbone stains, the remaining 80 uL was aliqouted to serve as the 30 minute full panel stain and overnight full panel stain. The full volume of prepared backbone cocktail was added to the 120 uL of sample, this mixture was aspirated to ensure it was mixed. 80 uL of this mixture was removed and pipetted into another FACS tube. The remaining 40 uL of sample with backbone cocktail would serve as the 30 minute backbone stain without inclusion of RR688 and Biotin-PE, to determine if their inclusion signifcantly affected the brightness or resolution of other markers. Biotin-PE and RR688 were added to the 80 uL of sample, in the amounts listed in the table above. This sample was aspirated and seperated into two 40 uL samples, to serve as the 30 minute backbone stain with RR688 and Biotin-PE, and the overnight backbone stain. 
+
+After 30 minute incubation, 1 mL of running buffer was added to the 30 minute stain duration samples tube. Tubes were then centrifuged at 300xg for 5 minutes, supernatent was discarded. Pellets were resuspended in 180 uL of running buffer. 5 uL of 7-AAD viability dye was added to each sample tube, which were then placed in the fridge to incubate for 5 minutes. 
+
+The two backbone stains (one without Biotin-PE and RR688), unstained sample, and full stain (prepared by Rediet & Rubi) were run using the Aurora-4 Spectral Cytometer.
+
+# Results of 30 minute staining 
+
+Cells used today were part of a sample analyzed with the MACSQuant and determined to contain a population of CAR T cells, therefore it was predicted we would see a population that was postive for the CAR T detection reagent. 
+
+## Full Panel 
+
+There was a clear population of CD3 positive lymphocytes present in this population, and a sufficient number of cells to collect over 100k events. However, there was not a large or particularly clear population positive for the CAR marker. 
+
+*insert picture of scatter, CD3 and CAR marker plots here*
+
+It is possible that there inclusion of so many markers negatively impacted the staining and resolution of the CAR T detection reagent. There are several potential future experiments that could be run to assess this. 
+
+The next step planned is to stain CAR T cells with the CAR detection reagent overnight alongside the rest of the antibody cocktail, instead of staining seperately and washing off the CAR detection reagent before staining with the antibody cocktail. 
+
+## Backbone
+A smaller number of cells was available, with fewer CD3 positve cells compared to the sample stained with the full panel, however there was still a population of CD3 positive lymphocytes. Unlike the full panel, a resolvable population positive for the CAR detection marker was present. This supports the idea that the presense of so many antibodies in the full panel may be impacting the resolution of the CAR detection. 
+
+*include images of scatter, CD3, and CAR plots*
+
+RR668 and Biotin-PE inclusion did not seem to negatively impact resolution of the backbone antibodies, as seen in comparison of populations in the full backbone stained sample, and the sample that did not include RR688 and PE. 
+
+*include comparisons between resolutions in full and limited backbone stains*
+
+Therefore, in future experiments, it seems as though RR688 and Biotin-PE should be included in the backbone cocktail. 

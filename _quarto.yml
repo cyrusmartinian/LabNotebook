@@ -20,7 +20,7 @@ website:
       - text: "Home"
         href: index.qmd  
       - text: "Experiments"   
-        href: experiments/Enriched T cells 27 color stain/2026_6_22/backbone stain.qmd
+        href: experiments/2026_6_22/plan_EnrichedT.qmd
     right:
     - icon: youtube
       href: https://www.youtube.com/@CytometryInR

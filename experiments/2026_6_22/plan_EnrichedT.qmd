@@ -35,7 +35,7 @@ In an effort to optimize a high-parameter flow cytometry panel, previously run u
 9. Pellets were resuspended in 180 uL of running buffer
 10. 5 uL of 7-AAD viability dye was added to both BB-30 and UN tubes (should not have been added to UN)
 11. BB-30 and UN tubes were incubated in the fridge for 5 minutes
-12. BB-30, UN, and full stain (prepared by **NAME**) were run using the Aurora-4 Spectral Cytometer
+12. BB-30, UN, and full stain (prepared by Rediet and Rubi) were run using the Aurora-4 Spectral Cytometer
 
 ## Day 2
 

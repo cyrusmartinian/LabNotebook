@@ -6,12 +6,12 @@ toc: TRUE
 theme: darkly
 ---
 
-# Backbone Stain Protocol for Enriched T Cells
+# Backbone Stain Protocol for CAR T Cells
 
 ## Day 1
 
 1.  Cryopreserved CAR-T cells were thawed, centrifuged, and resuspended in a minimal amount of buffer solution. Some sample was aliquoted out to serve as unstained control (UN).
-2.  2 uL CAR-T detection was added to remaining cell solution. Cells were incubated for 15 minutes in the fridge, then washed with 1 mL of RB, centrifuged at 300 xg for 5 minutes, and resuspended in minimal RB. 
+2.  1 uL CAR-T detection was added to remaining cell solution. Cells were incubated for 15 minutes in the fridge, then washed with 1 mL of RB, centrifuged at 300 xg for 5 minutes, and resuspended in minimal RB. 
 3.  Fluorophore - conjugated antibodies, TruStain FcX (Fc blocking buffer), and SuperBright buffer (to mitigate aggregation of antibodies) were centrifuged at 4000 rpm for 1 minute
 4.  5 uL of TruStain FcX was added to the total CAR-T cell sample volume, cell sample was incubated for at least 5 minutes in the fridge.
 5.  The backbone cocktail (antibodies known to stain well for this panel) was prepared for 2 samples, according to the following table (the volumes of antibody listed are per sample). 2 uL of SuperBright was added to the eppendorf tube prior to antibodies to mitigate aggregation.

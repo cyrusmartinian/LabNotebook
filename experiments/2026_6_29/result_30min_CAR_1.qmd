@@ -1,0 +1,14 @@
+---
+title: "Results of 30 Minute Staining CAR T Attempt 1"
+author: "Cyrus Martinian"
+date: 2026-06-29
+theme: darkly
+toc: TRUE
+---
+# MACS Quant Analysis
+Using the MACS Quant, it was evaluated that the sample stained for Attempt 1 did not actually contain an identifiable population of CAR T cells, therefore despite inclusion of the CAR T detection reagent, it was expected that there would not be a population positive for the CAR T marker. 
+
+# Backbone Stain
+
+
+# Full Panel

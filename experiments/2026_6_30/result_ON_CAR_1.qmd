@@ -1,0 +1,31 @@
+---
+title: "Results of Overnight CART Stain (Full and Backbone)"
+author: "Cyrus Martinian"
+date: 2026-06-30
+toc: TRUE
+theme: darkly
+---
+
+
+# Results of Overnight Backbone Stain
+
+About 50% of cells appeared to be alive after overnight incubation in fridge, this was determined with 7-AAD viability dye. Markers included in the backbone stained well enough to allow for populations to be resolved, however, as anticipated based on analysis of the cells used with the MACSQuant, the CAR reagent & biotin markers (RR688 & PE fluorophores) did not show positive populations. 
+
+*will include images of the above here*
+
+
+# Results of Overnight Full Panel Stains
+
+## Full Panel (No Medium)
+
+Good marker resolution, however only about 50% of cells were viable as determined with 7-AAD viability dye. No positive population was observed for CAR marker.
+
+*will include images of the above here*
+
+## Full Panel (Medium)
+
+The inclusion of medium did increase the proportion of viable cells following overnight incubation as compared with the sample incubated in only running buffer. About 65% of cells were determined to be viable with 7-AAD. However, it appears that the inclusion of medium did impact antibody binding, and reduced resolution was observed for several markers when compared to the sample without medium. 
+
+*will include images of the above here*
+
+It was determined that in future experiments, medium is likely not a useful way to account for cell death during the long incubation, due to the impact on antibody binding and population resolution. Possible next steps include the use of different medium, or fixing cells prior to staining. 
