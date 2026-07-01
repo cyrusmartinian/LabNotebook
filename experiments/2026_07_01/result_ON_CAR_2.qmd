@@ -6,8 +6,22 @@ theme: darkly
 toc: TRUE
 ---
 
+# Note: Deviation from typical wash & Re-Stain of CAR Detection Reagent
+
+Backbone and Full Panel stains run overnight were not incubated with 7-AAD viability dye before analysis. 
+
+After analysis, 2 uL of CAR detection reagent was added to the overnight full panel and backbone stains, which were then incubated for 15 minutes.
+
+After incubation, these samples were washed with 1 mL of running buffer and centrifuged at 300 xg for 5 minutes, then resuspended in 180 uL of running buffer. 5 uL of 7-AAD was then added to both samples; they were incubated for 5 minutes before analysis. 
+
 # Full Panel
+
+The 30 min full panel stain had about 3% CAR positive population, however the overnight full panel had about 5% CAR positive, similar to the backbone sample. This similarity and the increase in CAR positive population could be due to non-specific staining of dead cells with CAR reagent.
 
 # Backbone
 
+The 30 min backbone stain had about 11% CAR positive population, however the overnight backbone stain only had about 5% CAR positive, suggesting that using the CAR detection reagent before the rest of the antibodies is not effective for good resolution of CAR populations in overnight staining.  
+
 # Full Panel With Rerun CAR Detection Reagent
+
+# Backbone With Rerun CAR Detection Reagent
