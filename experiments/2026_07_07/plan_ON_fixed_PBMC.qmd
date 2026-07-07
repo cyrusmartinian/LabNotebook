@@ -1,0 +1,42 @@
+---
+title: "Testing PFA for Overnight Staining of PBMCs"
+author: "Cyrus Martinian"
+date: 2026-07-07
+toc: TRUE
+theme: darkly
+---
+
+# Background
+Dr. Fan, Rediet, and myself, have previously noticed and been concened by the proportion of cells that appear to die over the course of overnight incubation. Previously, one way that we have sought to increase the proportional of cells that remain viable is to incubate cells overnight in a complete medium, as opposed to PBS. This did improve the number of cells which survived overnight incubation, but had a detrimental effect on the resolution of many markers, and thus was deemed to be a poor solution. 
+
+Based on the protocols reccomended in the paper "Improving High Parameter Cytometry with Overnight Staining", I decided to test fixation of the samples to be stained overnight. 
+
+# Protocol
+PBMCs that had been cyropreseved by David Rach were thawed, they were suspended in R10 (10% FBS, 1% L-glutamine, and 0.1% gentamycin) for cryopresevation. 2 mL of sample, containing 6 million samples, were retrieved. 650 uL of sample was aliquoted into 3 5-mL FACS tubes (2M cells per tube). 
+
+2 mL of PBS was added to each sample tube and samples were centrifuged at 300 xg for 5 minutes to wash away R10 solution. Supernatent was discarded and samples were resuspended in 100 uL of PBS. The sample that would be used for single-color stains was resuspended in 600 uL PBS (100 uL per antibody that would be part of the single stain). 
+
+5 uL of TruStain FcX was added to each sample, and samples were allowed to incubate in the fridge for at least 5 minutes. 
+
+While samples were incubating, 4% PFA fixative was obtained and diluted to 0.4% (10 uL of PFA and 90 uL of PBS were added to an eppendorf tube and mixed well). 
+
+After incubation with FcX, each tube (containing 100 uL of cell solution) was split into 2 50 uL aliquots. These 4 samples were labled "unstained, unstained-fixed, backbone, backbone-fixed". 50 uL of the 0.4% PFA solution was added to the two samples labled for fixation, and these samples were incubated in the fridge for 20 minutes. 
+
+100 uL of the single-color sample was aliqoted into each of 6 tubes, labled with the antibody-fluorophore conjugate that would be added to that tube. 
+
+Backbone cocktail was prepared, containing the following: 
+
+| Marker | Fluorophore     | Volume (uL) |
+|--------|-----------------|-------------|
+| CD62L  | BUV395          | 2           |
+| CD4    | BUV496          | 1           |
+| CD8    | BUV510          | 1           |
+| CD45RO | BV570           | 1           |
+| CD3    | Spark Blue 550  | 1           |
+| CD45RA | Alexa Fluor 700 | 1           |
+
+After fixation incubation, 500 uL of PBS was added to both samples containing fixative and these samples wee centrifuged at 300 xg for 5 minutes. Supernatent was discarded and samples were resuspended in 50 uL of PBS to match unfixed samples. 
+
+4.5 uL of the backbone cocktail was added to the unfixed and fixed backbone samples, and these samples were placed in the fridge to incubate overnight
+
+Antibody stains were added to the 6 single color stain samples according to the table above, and single color stains were also placed in the fridge to incubate overnight. 

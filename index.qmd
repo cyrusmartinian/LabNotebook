@@ -1,1 +1,5 @@
-This is a placeholder
+---
+title: "Cyrus Martinian Lab Notebook: Summer 2026"
+theme: darkly
+---
+
