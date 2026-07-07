@@ -3,7 +3,9 @@ project:
   output-dir: docs
   render:
     - index.qmd
-    - experiments/Enriched T cells 27 color stain/2026_6_22/backbone stain.qmd
+    - experiments/2026_6_22/plan_EnrichedT.qmd
+    - experiments/2026_6_23/result_ON_EnrichedT.qmd
+    - experiments_page.qmd
 website:
   announcement: 
     icon: info-circle
@@ -20,26 +22,11 @@ website:
       - text: "Home"
         href: index.qmd  
       - text: "Experiments"   
-        href: experiments/2026_6_22/plan_EnrichedT.qmd
+        href: experiments_page.qmd
     right:
-    - icon: youtube
-      href: https://www.youtube.com/@CytometryInR
-      aria-label: YouTube
     - icon: github
       href: https://github.com/CyrusMartinian/LabNotebook
       aria-label: GitHub
-  sidebar:
-    style: floating
-    collapse-level: 1
-    contents:
-    - section: "Contents"
-      contents:
-      - text: "Home"
-        href: index.qmd
-      - text: "2026_6_22"
-      href: experiments/2026_6_22/plan_EnrichedT.qmd
-    - text: "2026_6_23"
-      href: experiments/2026_6_23/result_ON_EnrichedT.qmd
 
   page-footer: 
    left: Made with [Quarto](https://quarto.org/)
