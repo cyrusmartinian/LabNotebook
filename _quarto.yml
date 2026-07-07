@@ -3,9 +3,10 @@ project:
   output-dir: docs
   render:
     - index.qmd
-    - experiments/2026_6_22/plan_EnrichedT.qmd
-    - experiments/2026_6_23/result_ON_EnrichedT.qmd
-    - experiments_page.qmd
+    - /experiments/2026_6_22/plan_EnrichedT.qmd
+    - /experiments/2026_6_23/result_ON_EnrichedT.qmd
+    - /experiments_page.qmd
+    - /experiments/2026_6_22/result_30min_EnrichedT.qmd
 website:
   announcement: 
     icon: info-circle
