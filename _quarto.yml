@@ -32,10 +32,15 @@ website:
     style: floating
     collapse-level: 1
     contents:
-    - section: "Tutorial"
+    - section: "Contents"
       contents:
-      - text: "Getting Started"
+      - text: "Home"
         href: index.qmd
+      - text: "2026_6_22"
+      href: experiments/2026_6_22/plan_EnrichedT.qmd
+    - text: "2026_6_23"
+      href: experiments/2026_6_23/result_ON_EnrichedT.qmd
+
   page-footer: 
    left: Made with [Quarto](https://quarto.org/)
 format:
