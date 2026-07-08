@@ -10,6 +10,7 @@ project:
     - /experiments/2026_6_29/result_30min_CAR_1.qmd
     - /experiments/2026_6_29/plan_CAR_1.qmd
     - /experiments/2026_6_30/plan_and_result_30min_CAR_2.qmd
+    - /experiments/2026_07_08/result_ON_PBMC.qmd
 website:
   announcement: 
     icon: info-circle
