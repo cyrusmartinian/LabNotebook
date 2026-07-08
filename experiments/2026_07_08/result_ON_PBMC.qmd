@@ -8,11 +8,13 @@ theme: darkly
 
 # Wash of Overnight Stained Samples
 
-1 mL of PBS was added to all samples, which were then centrifuged at 300 xg for 5 minutes. Supernatent was discarded and samples were resuspended in 180 uL of PBS. 
+1 mL of PBS was added to all samples, which were then centrifuged at 300 xg for 5 minutes. Supernatent was discarded and samples were resuspended in 180 uL of PBS. The fixed and unfixed unstained samples were divided into 2 tubes each, of which one of the 2 would have 7-AAD added, and the other would serve as a true unstained sample for fixed and unfixed cells.
 
-5 uL of 7-AAD viability dye was added to the fixed & unfixed overnight backbone stains, these were placed in the fridge to incubate for 5 minutes. 
+5 uL of 7-AAD viability dye was added to the fixed & unfixed overnight backbone stains, as well as the designated fixed & unfixed unstained samples. These were placed in the fridge to incubate for 5 minutes. 
 
 # Result of Fixed & Unfixed Backbone Stain on PBMCs
+
+*also include image of fixed & unfixed 7-AAD alone*
 
 
 
