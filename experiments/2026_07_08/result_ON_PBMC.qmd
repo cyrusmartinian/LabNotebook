@@ -1,0 +1,20 @@
+---
+title: "Result of Testing Fixation for Overnight Staining of PBMCs"
+author: "Cyrus Martinian"
+date: 2026-7-08
+toc: TRUE
+theme: darkly
+---
+
+# Wash of Overnight Stained Samples
+
+1 mL of PBS was added to all samples, which were then centrifuged at 300 xg for 5 minutes. Supernatent was discarded and samples were resuspended in 180 uL of PBS. 
+
+5 uL of 7-AAD viability dye was added to the fixed & unfixed overnight backbone stains, these were placed in the fridge to incubate for 5 minutes. 
+
+# Result of Fixed & Unfixed Backbone Stain on PBMCs
+
+
+
+# Result of unfixed single color stains on PBMCs
+

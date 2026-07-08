@@ -44,10 +44,10 @@ The next step planned is to stain CAR T cells with the CAR detection reagent ove
 ## Backbone
 A smaller number of cells was available, with fewer CD3 positve cells compared to the sample stained with the full panel, however there was still a population of CD3 positive lymphocytes. Unlike the full panel, a resolvable population positive for the CAR detection marker was present. This supports the idea that the presense of so many antibodies in the full panel may be impacting the resolution of the CAR detection. 
 
-*include images of scatter, CD3, and CAR plots*
+![](/images/30M_BB_CAR_2.png)
 
-RR668 and Biotin-PE inclusion did not seem to negatively impact resolution of the backbone antibodies, as seen in comparison of populations in the full backbone stained sample, and the sample that did not include RR688 and PE. 
+RR668 and Biotin-PE inclusion did not seem to negatively impact resolution of the backbone antibodies, as seen in comparison of populations in the full backbone stained sample, and the sample that did not include RR688 and PE. However, there were far fewer cells in the full backbone stain, so this is difficult to see. 
 
-*include comparisons between resolutions in full and limited backbone stains*
+![](/images/30M_BB_notfull_CAR_2.png)
 
-Therefore, in future experiments, it seems as though RR688 and Biotin-PE should be included in the backbone cocktail. 
+In future experiments, it seems as though RR688 and Biotin-PE should be included in the backbone cocktail. 
