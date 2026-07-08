@@ -8,7 +8,7 @@ toc: TRUE
 
 # Results of Overnight Backbone Stain
 
-
+![](/images/BB_ON_EnrichedT.png)
 
 # Results of Overnight Full Panel Stains
 
@@ -17,3 +17,5 @@ toc: TRUE
 ## Full Panel Stain: Reduced Antibody Concentrations 
 
 # Results of Single Color Controls
+
+It appears that the cells used to make single color control samples were likely dead, as a result of being left at room temperature for 2-3 hours in only PBS. The following likely indicates non-specific staining. 

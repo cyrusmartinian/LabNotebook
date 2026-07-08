@@ -10,5 +10,6 @@ Using the MACS Quant, it was evaluated that the sample stained for Attempt 1 did
 
 # Backbone Stain
 
+![](/images/30M_BB_CAR_1.png)
 
 # Full Panel

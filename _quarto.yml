@@ -7,6 +7,8 @@ project:
     - /experiments/2026_6_23/result_ON_EnrichedT.qmd
     - /experiments_page.qmd
     - /experiments/2026_6_22/result_30min_EnrichedT.qmd
+    - /experiments/2026_6_29/result_30min_CAR_1.qmd
+    - /experiments/2026_6_29/plan_CAR_1.qmd
 website:
   announcement: 
     icon: info-circle
