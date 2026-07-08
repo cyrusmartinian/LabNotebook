@@ -9,6 +9,7 @@ project:
     - /experiments/2026_6_22/result_30min_EnrichedT.qmd
     - /experiments/2026_6_29/result_30min_CAR_1.qmd
     - /experiments/2026_6_29/plan_CAR_1.qmd
+    - /experiments/2026_6_30/plan_and_result_30min_CAR_2.qmd
 website:
   announcement: 
     icon: info-circle
