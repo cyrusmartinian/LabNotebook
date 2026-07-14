@@ -5,6 +5,10 @@ author: "Cyrus Martinian"
 date: 2026-06-23
 toc: TRUE
 ---
+# Other Info from 6_22
+
+[Single Stain Protocol](/experiments/2026_6_22/plan_single_EnrichedT.qmd)
+[Results of 30 Minute Stain](/experiments/2026_6_22/result_30min_EnrichedT.qmd)
 
 # Background Information
 In an effort to optimize a high-parameter flow cytometry panel, previously run using sequential staining (cocktail 1, backbone, and cocktail 2), the backbone group of antibodies:fluorophore conjugates as well as the full stain were prepared at the previously tested antibody volume & concentration, and incubated for 30 minutes, as well as overnight.

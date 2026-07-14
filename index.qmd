@@ -3,3 +3,18 @@ title: "Cyrus Martinian Lab Notebook: Summer 2026"
 theme: darkly
 ---
 
+# Daily Experiment Log
+
+[6_22](/experiments/2026_6_22/plan_EnrichedT.qmd)
+
+[6_23](/experiments/2026_6_23/result_ON_EnrichedT.qmd)
+
+[6_29](/experiments/2026_6_29/result_30min_CAR_1.qmd)
+
+[6_30](/experiments/2026_6_30/result_ON_CAR_1.qmd)
+
+[7_1](/experiments/2026_07_01/result_ON_CAR_2.qmd)
+
+[7_7](/experiments/2026_07_07/plan_ON_fixed_PBMC.qmd)
+
+[7_8](/experiments/2026_07_08/result_ON_PBMC.qmd)

@@ -5,6 +5,9 @@ date: 2026-06-29
 toc: TRUE
 theme: darkly
 ---
+# Other Info from 6_29
+
+[Result of 30 Minute Stain](/experiments/2026_6_29/result_30min_CAR_1.qmd)
 
 # Backbone Stain Protocol for CAR T Cells
 

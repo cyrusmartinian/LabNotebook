@@ -4,12 +4,15 @@ project:
   render:
     - index.qmd
     - /experiments/2026_6_22/plan_EnrichedT.qmd
+    - /experiments/2026_6_22/plan_single_EnrichedT.qmd
+    - /experiments/2026_6_22/result_30min_EnrichedT.html
     - /experiments/2026_6_23/result_ON_EnrichedT.qmd
-    - /experiments_page.qmd
-    - /experiments/2026_6_22/result_30min_EnrichedT.qmd
     - /experiments/2026_6_29/result_30min_CAR_1.qmd
     - /experiments/2026_6_29/plan_CAR_1.qmd
     - /experiments/2026_6_30/plan_and_result_30min_CAR_2.qmd
+    - /experiments/2026_6_30/result_ON_CAR_1.qmd
+    - /experiments/2026_07_01/result_ON_CAR_2.qmd
+    - /experiments/2026_07_07/plan_ON_fixed_PBMC.qmd
     - /experiments/2026_07_08/result_ON_PBMC.qmd
 website:
   announcement: 
@@ -26,8 +29,6 @@ website:
     left:
       - text: "Home"
         href: index.qmd  
-      - text: "Experiments"   
-        href: experiments_page.qmd
     right:
     - icon: github
       href: https://github.com/CyrusMartinian/LabNotebook

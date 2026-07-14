@@ -6,6 +6,12 @@ theme: darkly
 toc: TRUE
 ---
 
+# Other Info From 6_30
+
+[Result of Previous Day's Overnight Stain](/experiments/2026_6_30/result_ON_CAR_1.qmd)
+
+# Protocol for Second CAR T stain
+
 CAR-T cells were thawed, centrifuged, and resuspended in minimal amount of buffer solution. Some sample was aliquoted out to serve as unstained control (UN). 1 uL CAR-T detection was added to remaining cell solution. Cells were incubated for 20 minutes in the fridge, then washed with 1 mL of RB, centrifuged at 300 xg for 5 minutes, and resuspended in 200 uL running buffer.
 
 5 uL of TruStain FcX was added to the total CAR-T cell sample volume, cell sample was incubated for 10 minutes in the fridge.  The backbone cocktail, without Biotin-PE and RR688 CAR detection antibodies, was prepared at *low* concentration according to the following table. 2 uL of SuperBright was added to the eppendorf tube prior to antibodies to mitigate aggregation. The removal of Biotin-PE and RR688 conjugated antibodies in the full cocktail was done because it was suspected that these antibodies might be interfering with the staining of other components of the backbone cocktail.  

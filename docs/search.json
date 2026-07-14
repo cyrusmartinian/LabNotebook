@@ -4,56 +4,77 @@
     "href": "experiments/2026_07_08/result_ON_PBMC.html",
     "title": "Result of Testing Fixation for Overnight Staining of PBMCs",
     "section": "",
-    "text": "Wash of Overnight Stained Samples\n1 mL of PBS was added to all samples, which were then centrifuged at 300 xg for 5 minutes. Supernatent was discarded and samples were resuspended in 180 uL of PBS.\n5 uL of 7-AAD viability dye was added to the fixed & unfixed overnight backbone stains, these were placed in the fridge to incubate for 5 minutes.\n\n\nResult of Fixed & Unfixed Backbone Stain on PBMCs\n\n\nResult of unfixed single color stains on PBMCs"
+    "text": "Wash of Overnight Stained Samples\n1 mL of PBS was added to all samples, which were then centrifuged at 300 xg for 5 minutes. Supernatent was discarded and samples were resuspended in 180 uL of PBS. The fixed and unfixed unstained samples were divided into 2 tubes each, of which one of the 2 would have 7-AAD added, and the other would serve as a true unstained sample for fixed and unfixed cells.\n5 uL of 7-AAD viability dye was added to the fixed & unfixed overnight backbone stains, as well as the designated fixed & unfixed unstained samples. These were placed in the fridge to incubate for 5 minutes.\n\n\nCompensation/Unmixing Issues\nFixed & Unfixed backbone stains were both unmixed with unfixed single color controls. After unmixing, there appeared to be some unmixing error especially for the CD4/CD8 markers. David & discussed several possible reasons for this. Since the PBMC samples were cryopresrved & thawed quickly, they could have been damaged in a way that impacted autofluoresence, and caused more than one AF signature. It is also possible that the fixed backbone stain needs to be unmixed with single color controls that have also been fixed, since fixation is known to somewhat alter the Af signature of cells.\n\n\nResult of Fixed & Unfixed Backbone Stain on PBMCs\nalso include image of fixed & unfixed 7-AAD alone\n\n\nResult of unfixed single color stains on PBMCs"
   },
   {
-    "objectID": "experiments/2026_6_29/plan_CAR_1.html",
-    "href": "experiments/2026_6_29/plan_CAR_1.html",
-    "title": "Protocol for CAR-T Cell 30 Minute & Overnight Staining",
+    "objectID": "experiments/2026_07_01/result_ON_CAR_2.html",
+    "href": "experiments/2026_07_01/result_ON_CAR_2.html",
+    "title": "CAR T Cell Full Panel & Backbone Attempt 2 Overnight Stain Results",
     "section": "",
-    "text": "Cryopreserved CAR-T cells were thawed, centrifuged, and resuspended in a minimal amount of buffer solution. Some sample was aliquoted out to serve as unstained control (UN).\n1 uL CAR-T detection was added to remaining cell solution. Cells were incubated for 15 minutes in the fridge, then washed with 1 mL of RB, centrifuged at 300 xg for 5 minutes, and resuspended in minimal RB.\nFluorophore - conjugated antibodies, TruStain FcX (Fc blocking buffer), and SuperBright buffer (to mitigate aggregation of antibodies) were centrifuged at 4000 rpm for 1 minute\n5 uL of TruStain FcX was added to the total CAR-T cell sample volume, cell sample was incubated for at least 5 minutes in the fridge.\nThe backbone cocktail (antibodies known to stain well for this panel) was prepared for 2 samples, according to the following table (the volumes of antibody listed are per sample). 2 uL of SuperBright was added to the eppendorf tube prior to antibodies to mitigate aggregation.\n\n\n\n\nMarker\nFluorophore\nVolume (uL)\n\n\n\n\nCD62L\nBUV395\n5\n\n\nCD4\nBUV496\n3\n\n\nCD8\nBUV510\n2\n\n\nCD45RO\nBV570\n5\n\n\nCD3\nSpark Blue 550\n5\n\n\nCD45RA\nAlexa Fluor 700\n1\n\n\nBiotin\nPE\n2\n\n\nCD19\nReal Red 668\n5\n\n\n\n\nCAR-T cell sample was aliquoted into 3 5 mL FACS tubes, tubes were labled UN (unstained), BB-30 minute (backbone stain, 30 minute incubation), and BB-ON (backbone stain, overnight).\n27 uL of BB cocktail was add to the BB-30 minute and BB-ON samples\nBB-30 minute was placed in fridge to incubate for 30 minutes, and BB-ON was placed in fridge to incubate overnight, UN was also placed in fridge.\nAfter incubation, 1 mL of running buffer was added to BB-30 tube, and UN tube. Tubes were then centrifuged at 300xg for 5 minutes, supernatent was discarded.\nPellets were resuspended in 180 uL of running buffer\n5 uL of 7-AAD viability dye was added to BB-30 tube and tube was placed in fridge to incubate for 5 minutes.\nBB-30, UN, and full stain (prepared by Rediet & Rubi) were run using the Aurora-4 Spectral Cytometer\n\n\n\n\n\nBB-ON tube was retrieved from fridge, 1 mL of running buffer was added and sample was centrifuged at 300xg for 5 minutes, supernatent was discarded\npellet was resuspended in 180 uL of running buffer\n5 uL of 7-AAD viability dye was added to BB-ON tube\nBB-ON tube was placed in fridge to incubate for 5 minutes\nBB-ON and full stain incubated overnight were run using the Aurora-4 Spectral Cytometer"
+    "text": "Note: Deviation from typical wash & Re-Stain of CAR Detection Reagent\nBackbone and Full Panel stains run overnight were not incubated with 7-AAD viability dye before analysis.\nAfter analysis, 2 uL of CAR detection reagent was added to the overnight full panel and backbone stains, which were then incubated for 15 minutes.\nAfter incubation, these samples were washed with 1 mL of running buffer and centrifuged at 300 xg for 5 minutes, then resuspended in 180 uL of running buffer. 5 uL of 7-AAD was then added to both samples; they were incubated for 5 minutes before analysis.\n\n\nFull Panel\nThe 30 min full panel stain had about 3% CAR positive population, however the overnight full panel had about 5% CAR positive, similar to the backbone sample. This similarity and the increase in CAR positive population could be due to non-specific staining of dead cells with CAR reagent.\n\n\nBackbone\nThe 30 min backbone stain had about 11% CAR positive population, however the overnight backbone stain only had about 5% CAR positive, suggesting that using the CAR detection reagent before the rest of the antibodies is not effective for good resolution of CAR populations in overnight staining.\n\n\nFull Panel With Rerun CAR Detection Reagent\n\n\nBackbone With Rerun CAR Detection Reagent"
   },
   {
-    "objectID": "experiments/2026_6_29/plan_CAR_1.html#day-1",
-    "href": "experiments/2026_6_29/plan_CAR_1.html#day-1",
-    "title": "Protocol for CAR-T Cell 30 Minute & Overnight Staining",
+    "objectID": "experiments/2026_6_30/plan_and_result_30min_CAR_2.html",
+    "href": "experiments/2026_6_30/plan_and_result_30min_CAR_2.html",
+    "title": "CAR T Cell Full Panel and Backbone Stain Attempt 2",
     "section": "",
-    "text": "Cryopreserved CAR-T cells were thawed, centrifuged, and resuspended in a minimal amount of buffer solution. Some sample was aliquoted out to serve as unstained control (UN).\n1 uL CAR-T detection was added to remaining cell solution. Cells were incubated for 15 minutes in the fridge, then washed with 1 mL of RB, centrifuged at 300 xg for 5 minutes, and resuspended in minimal RB.\nFluorophore - conjugated antibodies, TruStain FcX (Fc blocking buffer), and SuperBright buffer (to mitigate aggregation of antibodies) were centrifuged at 4000 rpm for 1 minute\n5 uL of TruStain FcX was added to the total CAR-T cell sample volume, cell sample was incubated for at least 5 minutes in the fridge.\nThe backbone cocktail (antibodies known to stain well for this panel) was prepared for 2 samples, according to the following table (the volumes of antibody listed are per sample). 2 uL of SuperBright was added to the eppendorf tube prior to antibodies to mitigate aggregation.\n\n\n\n\nMarker\nFluorophore\nVolume (uL)\n\n\n\n\nCD62L\nBUV395\n5\n\n\nCD4\nBUV496\n3\n\n\nCD8\nBUV510\n2\n\n\nCD45RO\nBV570\n5\n\n\nCD3\nSpark Blue 550\n5\n\n\nCD45RA\nAlexa Fluor 700\n1\n\n\nBiotin\nPE\n2\n\n\nCD19\nReal Red 668\n5\n\n\n\n\nCAR-T cell sample was aliquoted into 3 5 mL FACS tubes, tubes were labled UN (unstained), BB-30 minute (backbone stain, 30 minute incubation), and BB-ON (backbone stain, overnight).\n27 uL of BB cocktail was add to the BB-30 minute and BB-ON samples\nBB-30 minute was placed in fridge to incubate for 30 minutes, and BB-ON was placed in fridge to incubate overnight, UN was also placed in fridge.\nAfter incubation, 1 mL of running buffer was added to BB-30 tube, and UN tube. Tubes were then centrifuged at 300xg for 5 minutes, supernatent was discarded.\nPellets were resuspended in 180 uL of running buffer\n5 uL of 7-AAD viability dye was added to BB-30 tube and tube was placed in fridge to incubate for 5 minutes.\nBB-30, UN, and full stain (prepared by Rediet & Rubi) were run using the Aurora-4 Spectral Cytometer"
+    "text": "Result of Previous Day’s Overnight Stain"
   },
   {
-    "objectID": "experiments/2026_6_29/plan_CAR_1.html#day-2",
-    "href": "experiments/2026_6_29/plan_CAR_1.html#day-2",
-    "title": "Protocol for CAR-T Cell 30 Minute & Overnight Staining",
+    "objectID": "experiments/2026_6_30/plan_and_result_30min_CAR_2.html#full-panel",
+    "href": "experiments/2026_6_30/plan_and_result_30min_CAR_2.html#full-panel",
+    "title": "CAR T Cell Full Panel and Backbone Stain Attempt 2",
+    "section": "Full Panel",
+    "text": "Full Panel\nThere was a clear population of CD3 positive lymphocytes present in this population, and a sufficient number of cells to collect over 100k events. However, there was not a large or particularly clear population positive for the CAR marker.\ninsert picture of scatter, CD3 and CAR marker plots here\nIt is possible that there inclusion of so many markers negatively impacted the staining and resolution of the CAR T detection reagent. There are several potential future experiments that could be run to assess this.\nThe next step planned is to stain CAR T cells with the CAR detection reagent overnight alongside the rest of the antibody cocktail, instead of staining seperately and washing off the CAR detection reagent before staining with the antibody cocktail."
+  },
+  {
+    "objectID": "experiments/2026_6_30/plan_and_result_30min_CAR_2.html#backbone",
+    "href": "experiments/2026_6_30/plan_and_result_30min_CAR_2.html#backbone",
+    "title": "CAR T Cell Full Panel and Backbone Stain Attempt 2",
+    "section": "Backbone",
+    "text": "Backbone\nA smaller number of cells was available, with fewer CD3 positve cells compared to the sample stained with the full panel, however there was still a population of CD3 positive lymphocytes. Unlike the full panel, a resolvable population positive for the CAR detection marker was present. This supports the idea that the presense of so many antibodies in the full panel may be impacting the resolution of the CAR detection.\n\nRR668 and Biotin-PE inclusion did not seem to negatively impact resolution of the backbone antibodies, as seen in comparison of populations in the full backbone stained sample, and the sample that did not include RR688 and PE. However, there were far fewer cells in the full backbone stain, so this is difficult to see.\n\nIn future experiments, it seems as though RR688 and Biotin-PE should be included in the backbone cocktail."
+  },
+  {
+    "objectID": "experiments/2026_6_29/result_30min_CAR_1.html",
+    "href": "experiments/2026_6_29/result_30min_CAR_1.html",
+    "title": "Results of 30 Minute Staining CAR T Attempt 1",
     "section": "",
-    "text": "BB-ON tube was retrieved from fridge, 1 mL of running buffer was added and sample was centrifuged at 300xg for 5 minutes, supernatent was discarded\npellet was resuspended in 180 uL of running buffer\n5 uL of 7-AAD viability dye was added to BB-ON tube\nBB-ON tube was placed in fridge to incubate for 5 minutes\nBB-ON and full stain incubated overnight were run using the Aurora-4 Spectral Cytometer"
+    "text": "MACS Quant Analysis\nUsing the MACS Quant, it was evaluated that the sample stained for Attempt 1 did not actually contain an identifiable population of CAR T cells, therefore despite inclusion of the CAR T detection reagent, it was expected that there would not be a population positive for the CAR T marker.\n\n\nBackbone Stain\n\n\n\nFull Panel"
   },
   {
-    "objectID": "experiments/2026_6_22/result_30min_EnrichedT.html",
-    "href": "experiments/2026_6_22/result_30min_EnrichedT.html",
-    "title": "Results of 30-Minute Full Panel & Backbone Stains",
+    "objectID": "experiments/2026_6_22/plan_single_EnrichedT.html",
+    "href": "experiments/2026_6_22/plan_single_EnrichedT.html",
+    "title": "Overnight Single Color Controls at Low Concentration",
     "section": "",
-    "text": "Result of 30 Minute Backbone Stain of Enriched T cells\nThe enriched T cells that were incubated for 30 minutes in the backbone antibody stain cocktail were analyzed with the Aurora 4 spectral cytometer. Antibodies in the backbone cocktail were included based on the fact that they typically stain well and provide good resolution between positive and negative populations with standard staining and sequential staining. Therefore, it was predicted that populations would be easy to resolve for all markers in this stain. This prediction proved correct, as can be seen by the figures below.\nUnmixing was done using previously collected single stain contols (of cells or beads), and the unstained sample collected from the same batch of thawed enriched T cells as was stained.\n\n\n\nResult of 30 Minute Full Panel Stain of Enriched T Cells\nThe enriched T cells that were incubated for 30 minutes in the full panel (27 color) cocktail of antibodies were also analyzed with the Aurora 4 spectral cytometer. This panel had previously been run with a sequential staining protocol, wherein some antibody stains were added to the cell same earlier than others, based on reduced marker binding affinity or rarity of the marker. Somewhat surprisingly, most markers did still show resolution of positive and negative populations, although some were more clearly defined than others.\ninsert images of full panel stain populations here"
+    "text": "In order to optimize the panel for overnight staining, it is nessecery to determine the appropriate antibody titrations to be used. Since the overnight stain involves much longer incubation time, it is likely that the original antibody quantities used will cause staining that is too bright or contribute to non-specific staining.\nSingle color controls could also be used to unmix the full cocktail sample that was incubated overnight at these lower concentrations."
   },
   {
-    "objectID": "experiments/2026_6_23/result_ON_EnrichedT.html#full-panel-stain-previously-tested-antibody-concentrations",
-    "href": "experiments/2026_6_23/result_ON_EnrichedT.html#full-panel-stain-previously-tested-antibody-concentrations",
-    "title": "Results of First Tests of Overnight Staining",
-    "section": "Full Panel Stain: Previously Tested Antibody Concentrations",
-    "text": "Full Panel Stain: Previously Tested Antibody Concentrations"
+    "objectID": "experiments/2026_6_22/plan_single_EnrichedT.html#day-1",
+    "href": "experiments/2026_6_22/plan_single_EnrichedT.html#day-1",
+    "title": "Overnight Single Color Controls at Low Concentration",
+    "section": "Day 1",
+    "text": "Day 1\n\nAll antibodies that were used in the panel, as well as TruStain FcX blocking buffer were centrifuged at 4000 rpm for 1 minute\nEnriched T cell sample was obtained and 150 uL per stain to be run (total of 26 colors, so about 4 mL) was aliquoted into a 5 mL FACS tube.\n\nnote it was later observed that the cells in the sample provided were not in good condition, and a large portion of them appeared to be dead. There were also visible white/grey chunks floating in the solution the cells were provided in.\n\n20 uL of TruStain FcX was added to the FACS tube, sample was incubated in the fridge for a minimum of 5 minutes\nAfter incubation, 150 uL of the cell sample was aliquoted into 26 wells of a 96-well plate, followed by addition of antibody. The sample and antibody were added at the locations and amounts dictated by the following:\n\nThe well plate was placed in the fridge to incubate overnight (19 hours)"
   },
   {
-    "objectID": "experiments/2026_6_23/result_ON_EnrichedT.html#full-panel-stain-reduced-antibody-concentrations",
-    "href": "experiments/2026_6_23/result_ON_EnrichedT.html#full-panel-stain-reduced-antibody-concentrations",
-    "title": "Results of First Tests of Overnight Staining",
-    "section": "Full Panel Stain: Reduced Antibody Concentrations",
-    "text": "Full Panel Stain: Reduced Antibody Concentrations"
+    "objectID": "experiments/2026_6_22/plan_single_EnrichedT.html#day-2",
+    "href": "experiments/2026_6_22/plan_single_EnrichedT.html#day-2",
+    "title": "Overnight Single Color Controls at Low Concentration",
+    "section": "Day 2",
+    "text": "Day 2\n\nThe well plate was removed from the fridge following incubation, and 100 uL of running buffer was added to each well that contained cells\nThe well plate was centrifuged at 300xg for 5 minutes to wash cells, supernatent was discarded and cells were resuspended in 180 uL of running buffer.\nSamples from each well were aspirated to mix, then pipetted into 5 mL FACS tubes to be analyzed with the Aurora-4 spectral cytometer"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cyrus Martinian Lab Notebook: Summer 2026",
+    "section": "",
+    "text": "Daily Experiment Log\n6_22\n6_23\n6_29\n6_30\n7_1\n7_7\n7_8"
   },
   {
     "objectID": "experiments/2026_6_22/plan_EnrichedT.html",
     "href": "experiments/2026_6_22/plan_EnrichedT.html",
     "title": "Backbone Stain Protocol",
     "section": "",
-    "text": "In an effort to optimize a high-parameter flow cytometry panel, previously run using sequential staining (cocktail 1, backbone, and cocktail 2), the backbone group of antibodies:fluorophore conjugates as well as the full stain were prepared at the previously tested antibody volume & concentration, and incubated for 30 minutes, as well as overnight."
+    "text": "Single Stain Protocol Results of 30 Minute Stain"
   },
   {
     "objectID": "experiments/2026_6_22/plan_EnrichedT.html#day-1",
@@ -70,38 +91,66 @@
     "text": "Day 2\n\nBB-ON tube was retrieved from fridge, 1 mL of running buffer was added and sample was centrifuged at 300xg for 5 minutes, supernatent was discarded\npellet was resuspended in 180 uL of running buffer\n5 uL of 7-AAD viability dye was added to BB-ON tube\nBB-ON tube was placed in fridge to incubate for 5 minutes\nBB-ON, full stain-2 (at antibody concentrations previously tested, incubated overnight), and full stain-1 (at lower antibody concentrations, incubated overnight), were run using the Aurora-4 Spectral Cytometer"
   },
   {
-    "objectID": "experiments_page.html",
-    "href": "experiments_page.html",
-    "title": "Experiments",
+    "objectID": "experiments/2026_6_23/result_ON_EnrichedT.html#full-panel-stain-previously-tested-antibody-concentrations",
+    "href": "experiments/2026_6_23/result_ON_EnrichedT.html#full-panel-stain-previously-tested-antibody-concentrations",
+    "title": "Results of First Tests of Overnight Staining",
+    "section": "Full Panel Stain: Previously Tested Antibody Concentrations",
+    "text": "Full Panel Stain: Previously Tested Antibody Concentrations"
+  },
+  {
+    "objectID": "experiments/2026_6_23/result_ON_EnrichedT.html#full-panel-stain-reduced-antibody-concentrations",
+    "href": "experiments/2026_6_23/result_ON_EnrichedT.html#full-panel-stain-reduced-antibody-concentrations",
+    "title": "Results of First Tests of Overnight Staining",
+    "section": "Full Panel Stain: Reduced Antibody Concentrations",
+    "text": "Full Panel Stain: Reduced Antibody Concentrations"
+  },
+  {
+    "objectID": "experiments/2026_6_29/plan_CAR_1.html",
+    "href": "experiments/2026_6_29/plan_CAR_1.html",
+    "title": "Protocol for CAR-T Cell 30 Minute & Overnight Staining",
     "section": "",
-    "text": "6_22\n6_23"
+    "text": "Result of 30 Minute Stain"
   },
   {
-    "objectID": "experiments/2026_6_29/result_30min_CAR_1.html",
-    "href": "experiments/2026_6_29/result_30min_CAR_1.html",
-    "title": "Results of 30 Minute Staining CAR T Attempt 1",
+    "objectID": "experiments/2026_6_29/plan_CAR_1.html#day-1",
+    "href": "experiments/2026_6_29/plan_CAR_1.html#day-1",
+    "title": "Protocol for CAR-T Cell 30 Minute & Overnight Staining",
+    "section": "Day 1",
+    "text": "Day 1\n\nCryopreserved CAR-T cells were thawed, centrifuged, and resuspended in a minimal amount of buffer solution. Some sample was aliquoted out to serve as unstained control (UN).\n1 uL CAR-T detection was added to remaining cell solution. Cells were incubated for 15 minutes in the fridge, then washed with 1 mL of RB, centrifuged at 300 xg for 5 minutes, and resuspended in minimal RB.\nFluorophore - conjugated antibodies, TruStain FcX (Fc blocking buffer), and SuperBright buffer (to mitigate aggregation of antibodies) were centrifuged at 4000 rpm for 1 minute\n5 uL of TruStain FcX was added to the total CAR-T cell sample volume, cell sample was incubated for at least 5 minutes in the fridge.\nThe backbone cocktail (antibodies known to stain well for this panel) was prepared for 2 samples, according to the following table (the volumes of antibody listed are per sample). 2 uL of SuperBright was added to the eppendorf tube prior to antibodies to mitigate aggregation.\n\n\n\n\nMarker\nFluorophore\nVolume (uL)\n\n\n\n\nCD62L\nBUV395\n5\n\n\nCD4\nBUV496\n3\n\n\nCD8\nBUV510\n2\n\n\nCD45RO\nBV570\n5\n\n\nCD3\nSpark Blue 550\n5\n\n\nCD45RA\nAlexa Fluor 700\n1\n\n\nBiotin\nPE\n2\n\n\nCD19\nReal Red 668\n5\n\n\n\n\nCAR-T cell sample was aliquoted into 3 5 mL FACS tubes, tubes were labled UN (unstained), BB-30 minute (backbone stain, 30 minute incubation), and BB-ON (backbone stain, overnight).\n27 uL of BB cocktail was add to the BB-30 minute and BB-ON samples\nBB-30 minute was placed in fridge to incubate for 30 minutes, and BB-ON was placed in fridge to incubate overnight, UN was also placed in fridge.\nAfter incubation, 1 mL of running buffer was added to BB-30 tube, and UN tube. Tubes were then centrifuged at 300xg for 5 minutes, supernatent was discarded.\nPellets were resuspended in 180 uL of running buffer\n5 uL of 7-AAD viability dye was added to BB-30 tube and tube was placed in fridge to incubate for 5 minutes.\nBB-30, UN, and full stain (prepared by Rediet & Rubi) were run using the Aurora-4 Spectral Cytometer"
+  },
+  {
+    "objectID": "experiments/2026_6_29/plan_CAR_1.html#day-2",
+    "href": "experiments/2026_6_29/plan_CAR_1.html#day-2",
+    "title": "Protocol for CAR-T Cell 30 Minute & Overnight Staining",
+    "section": "Day 2",
+    "text": "Day 2\n\nBB-ON tube was retrieved from fridge, 1 mL of running buffer was added and sample was centrifuged at 300xg for 5 minutes, supernatent was discarded\npellet was resuspended in 180 uL of running buffer\n5 uL of 7-AAD viability dye was added to BB-ON tube\nBB-ON tube was placed in fridge to incubate for 5 minutes\nBB-ON and full stain incubated overnight were run using the Aurora-4 Spectral Cytometer"
+  },
+  {
+    "objectID": "experiments/2026_6_30/result_ON_CAR_1.html",
+    "href": "experiments/2026_6_30/result_ON_CAR_1.html",
+    "title": "Results of Overnight CART Stain (Full and Backbone)",
     "section": "",
-    "text": "MACS Quant Analysis\nUsing the MACS Quant, it was evaluated that the sample stained for Attempt 1 did not actually contain an identifiable population of CAR T cells, therefore despite inclusion of the CAR T detection reagent, it was expected that there would not be a population positive for the CAR T marker.\n\n\nBackbone Stain\n\n\n\nFull Panel"
+    "text": "About 80% of cells appeared to be alive after overnight incubation in fridge, this was determined with 7-AAD viability dye. Markers included in the backbone stained well enough to allow for populations to be resolved, however, as anticipated based on analysis of the cells used with the MACSQuant, the CAR reagent & biotin markers (RR688 & PE fluorophores) did not show positive populations."
   },
   {
-    "objectID": "experiments/2026_6_30/plan_and_result_30min_CAR_2.html",
-    "href": "experiments/2026_6_30/plan_and_result_30min_CAR_2.html",
-    "title": "CAR T Cell Full Panel and Backbone Stain Attempt 2",
+    "objectID": "experiments/2026_6_30/result_ON_CAR_1.html#full-panel-no-medium",
+    "href": "experiments/2026_6_30/result_ON_CAR_1.html#full-panel-no-medium",
+    "title": "Results of Overnight CART Stain (Full and Backbone)",
+    "section": "Full Panel (No Medium)",
+    "text": "Full Panel (No Medium)\nGood marker resolution, however about 80% of cells were viable as determined with 7-AAD viability dye. No significant positive population was observed for CAR marker after gating on healthy, live, CD3 positive cells."
+  },
+  {
+    "objectID": "experiments/2026_6_30/result_ON_CAR_1.html#full-panel-medium",
+    "href": "experiments/2026_6_30/result_ON_CAR_1.html#full-panel-medium",
+    "title": "Results of Overnight CART Stain (Full and Backbone)",
+    "section": "Full Panel (Medium)",
+    "text": "Full Panel (Medium)\nThe inclusion of medium did increase the proportion of viable cells following overnight incubation as compared with the sample incubated in only running buffer. It appears that the inclusion of medium did impact antibody binding, and reduced resolution was observed for several markers when compared to the sample without medium.\nwill include images of the above here\nIt was determined that in future experiments, medium is likely not a useful way to account for cell death during the long incubation, due to the impact on antibody binding and population resolution. Possible next steps include the use of different medium, or fixing cells prior to staining."
+  },
+  {
+    "objectID": "experiments/2026_07_07/plan_ON_fixed_PBMC.html",
+    "href": "experiments/2026_07_07/plan_ON_fixed_PBMC.html",
+    "title": "Testing PFA for Overnight Staining of PBMCs",
     "section": "",
-    "text": "CAR-T cells were thawed, centrifuged, and resuspended in minimal amount of buffer solution. Some sample was aliquoted out to serve as unstained control (UN). 1 uL CAR-T detection was added to remaining cell solution. Cells were incubated for 20 minutes in the fridge, then washed with 1 mL of RB, centrifuged at 300 xg for 5 minutes, and resuspended in 200 uL running buffer.\n5 uL of TruStain FcX was added to the total CAR-T cell sample volume, cell sample was incubated for 10 minutes in the fridge. The backbone cocktail, without Biotin-PE and RR688 CAR detection antibodies, was prepared at low concentration according to the following table. 2 uL of SuperBright was added to the eppendorf tube prior to antibodies to mitigate aggregation. The removal of Biotin-PE and RR688 conjugated antibodies in the full cocktail was done because it was suspected that these antibodies might be interfering with the staining of other components of the backbone cocktail.\nAfter incubation with FcX, 120 uL of the sample was aliquoted to serve in the 3 backbone stains, the remaining 80 uL was aliqouted to serve as the 30 minute full panel stain and overnight full panel stain. The full volume of prepared backbone cocktail was added to the 120 uL of sample, this mixture was aspirated to ensure it was mixed. 80 uL of this mixture was removed and pipetted into another FACS tube. The remaining 40 uL of sample with backbone cocktail would serve as the 30 minute backbone stain without inclusion of RR688 and Biotin-PE, to determine if their inclusion signifcantly affected the brightness or resolution of other markers. Biotin-PE and RR688 were added to the 80 uL of sample, in the amounts listed in the table above. This sample was aspirated and seperated into two 40 uL samples, to serve as the 30 minute backbone stain with RR688 and Biotin-PE, and the overnight backbone stain.\nAfter 30 minute incubation, 1 mL of running buffer was added to the 30 minute stain duration samples tube. Tubes were then centrifuged at 300xg for 5 minutes, supernatent was discarded. Pellets were resuspended in 180 uL of running buffer. 5 uL of 7-AAD viability dye was added to each sample tube, which were then placed in the fridge to incubate for 5 minutes.\nThe two backbone stains (one without Biotin-PE and RR688), unstained sample, and full stain (prepared by Rediet & Rubi) were run using the Aurora-4 Spectral Cytometer."
-  },
-  {
-    "objectID": "experiments/2026_6_30/plan_and_result_30min_CAR_2.html#full-panel",
-    "href": "experiments/2026_6_30/plan_and_result_30min_CAR_2.html#full-panel",
-    "title": "CAR T Cell Full Panel and Backbone Stain Attempt 2",
-    "section": "Full Panel",
-    "text": "Full Panel\nThere was a clear population of CD3 positive lymphocytes present in this population, and a sufficient number of cells to collect over 100k events. However, there was not a large or particularly clear population positive for the CAR marker.\ninsert picture of scatter, CD3 and CAR marker plots here\nIt is possible that there inclusion of so many markers negatively impacted the staining and resolution of the CAR T detection reagent. There are several potential future experiments that could be run to assess this.\nThe next step planned is to stain CAR T cells with the CAR detection reagent overnight alongside the rest of the antibody cocktail, instead of staining seperately and washing off the CAR detection reagent before staining with the antibody cocktail."
-  },
-  {
-    "objectID": "experiments/2026_6_30/plan_and_result_30min_CAR_2.html#backbone",
-    "href": "experiments/2026_6_30/plan_and_result_30min_CAR_2.html#backbone",
-    "title": "CAR T Cell Full Panel and Backbone Stain Attempt 2",
-    "section": "Backbone",
-    "text": "Backbone\nA smaller number of cells was available, with fewer CD3 positve cells compared to the sample stained with the full panel, however there was still a population of CD3 positive lymphocytes. Unlike the full panel, a resolvable population positive for the CAR detection marker was present. This supports the idea that the presense of so many antibodies in the full panel may be impacting the resolution of the CAR detection.\n\nRR668 and Biotin-PE inclusion did not seem to negatively impact resolution of the backbone antibodies, as seen in comparison of populations in the full backbone stained sample, and the sample that did not include RR688 and PE. However, there were far fewer cells in the full backbone stain, so this is difficult to see.\n\nIn future experiments, it seems as though RR688 and Biotin-PE should be included in the backbone cocktail."
+    "text": "Background\nDr. Fan, Rediet, and myself, have previously noticed and been concened by the proportion of cells that appear to die over the course of overnight incubation. Previously, one way that we have sought to increase the proportional of cells that remain viable is to incubate cells overnight in a complete medium, as opposed to PBS. This did improve the number of cells which survived overnight incubation, but had a detrimental effect on the resolution of many markers, and thus was deemed to be a poor solution.\nBased on the protocols reccomended in the paper “Improving High Parameter Cytometry with Overnight Staining”, I decided to test fixation of the samples to be stained overnight.\n\n\nProtocol\nPBMCs that had been cyropreseved by David Rach were thawed, they were suspended in R10 (10% FBS, 1% L-glutamine, and 0.1% gentamycin) for cryopresevation. 2 mL of sample, containing 6 million samples, were retrieved. 650 uL of sample was aliquoted into 3 5-mL FACS tubes (2M cells per tube).\n2 mL of PBS was added to each sample tube and samples were centrifuged at 300 xg for 5 minutes to wash away R10 solution. Supernatent was discarded and samples were resuspended in 100 uL of PBS. The sample that would be used for single-color stains was resuspended in 600 uL PBS (100 uL per antibody that would be part of the single stain).\n5 uL of TruStain FcX was added to each sample, and samples were allowed to incubate in the fridge for at least 5 minutes.\nWhile samples were incubating, 4% PFA fixative was obtained and diluted to 0.4% (10 uL of PFA and 90 uL of PBS were added to an eppendorf tube and mixed well).\nAfter incubation with FcX, each tube (containing 100 uL of cell solution) was split into 2 50 uL aliquots. These 4 samples were labled “unstained, unstained-fixed, backbone, backbone-fixed”. 50 uL of the 0.4% PFA solution was added to the two samples labled for fixation, and these samples were incubated in the fridge for 20 minutes.\n100 uL of the single-color sample was aliqoted into each of 6 tubes, labled with the antibody-fluorophore conjugate that would be added to that tube.\nBackbone cocktail was prepared, containing the following:\n\n\n\nMarker\nFluorophore\nVolume (uL)\n\n\n\n\nCD62L\nBUV395\n2\n\n\nCD4\nBUV496\n1\n\n\nCD8\nBUV510\n1\n\n\nCD45RO\nBV570\n1\n\n\nCD3\nSpark Blue 550\n1\n\n\nCD45RA\nAlexa Fluor 700\n1\n\n\n\nAfter fixation incubation, 500 uL of PBS was added to both samples containing fixative and these samples wee centrifuged at 300 xg for 5 minutes. Supernatent was discarded and samples were resuspended in 50 uL of PBS to match unfixed samples.\n4.5 uL of the backbone cocktail was added to the unfixed and fixed backbone samples, and these samples were placed in the fridge to incubate overnight\nAntibody stains were added to the 6 single color stain samples according to the table above, and single color stains were also placed in the fridge to incubate overnight."
   }
 ]
