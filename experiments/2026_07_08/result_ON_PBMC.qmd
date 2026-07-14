@@ -12,6 +12,10 @@ theme: darkly
 
 5 uL of 7-AAD viability dye was added to the fixed & unfixed overnight backbone stains, as well as the designated fixed & unfixed unstained samples. These were placed in the fridge to incubate for 5 minutes. 
 
+# Compensation/Unmixing Issues
+
+Fixed & Unfixed backbone stains were both unmixed with unfixed single color controls. After unmixing, there appeared to be some unmixing error especially for the CD4/CD8 markers. David & discussed several possible reasons for this. Since the PBMC samples were cryopresrved & thawed quickly, they could have been damaged in a way that impacted autofluoresence, and caused more than one AF signature. It is also possible that the fixed backbone stain needs to be unmixed with single color controls that have also been fixed, since fixation is known to somewhat alter the Af signature of cells. 
+
 # Result of Fixed & Unfixed Backbone Stain on PBMCs
 
 *also include image of fixed & unfixed 7-AAD alone*
