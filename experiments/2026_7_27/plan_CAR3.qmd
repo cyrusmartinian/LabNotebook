@@ -1,0 +1,22 @@
+---
+title: "Testing Fixation & Overnight Fixation on CAR T cells"
+author: "Cyrus Martinian"
+date: 2026-07-27
+toc: TRUE
+theme: darkly
+---
+CAR T cell sample was obtained from Rediet Mulatu. Cells were aliquoted into unfixed vs. fixed samples. 
+
+5 uL of TruStain FcX was added to each sample, and samples were allowed to incubate in the fridge for at least 5 minutes. 
+
+While samples were incubating, 4% PFA fixative was obtained and diluted to 0.4% (10 uL of PFA and 90 uL of PBS were added to an eppendorf tube and mixed well). 
+
+After incubation with FcX, each tube (containing 100 uL of cell solution) was split into 2 50 uL aliquots. These 4 samples were labled "unstained, unstained-fixed, 29C, 29C-fixed". 50 uL of the 0.4% PFA solution was added to the two samples labled for fixation, and these samples were incubated in the fridge for 20 minutes. 
+
+While samples were fixed, the antibody cocktail was prepared according to the following table:
+
+![](/images/fullpanel.png)
+
+After fixation incubation, 500 uL of PBS was added to both samples containing fixative and these samples wee centrifuged at 300 xg for 5 minutes. Supernatent was discarded and samples were resuspended in 50 uL of PBS to match unfixed samples. 
+
+Antibody cocktail was added to the appropriate samples & allowed to incubate overnight. 
