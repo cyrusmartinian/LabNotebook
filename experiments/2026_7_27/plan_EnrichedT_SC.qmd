@@ -5,9 +5,31 @@ date: 2026-07-27
 toc: TRUE
 theme: darkly
 ---
+# Protocol 
+
+Single color controls were prepared on enriched T cells for the 30 color panel. Samples were stained according to the following table, leaving out the PE and CD19 stains as there would be no positive population in the enriched T cells. 
+
 
 ![](/images/fullpanel.png)
 
-fixed + unfixed single stains if possible
+1. 10 million enriched T cells suspended in approximatly 1 mL of PBS were obtained from David Yamoah for staining. 
 
-might also do 30 min + ON stains 
+2. Cells were incubated with 5 uL of TruStain FcX for 15 minutes in the fridge.
+
+3. Sample was diluted to 8.5 mL of volume and vortexed to ensure even distribution. 
+
+4. 56 5 mL FACS tubes were obtained and labled with the 27 flurophores & markers to be stained. 2 tubes were designated for unstained samples. 
+
+One set of tubes labled with the 27 fluorophores was to be stained at the higher antibody stain concentration listed in the table for 30 minutes, to act as SC controls for the previously optimized sequentially stained panel. 
+
+The other set was to be stained at the lower concentration listed in the table overnight, to act as SC controls for the new overnight staining protocol. 
+
+5. 150 uL of the enriched T cell solution was aliquoted into each tube, so that each would contain roughly 150k cells. 
+
+6. Appropriate amounts of antibody were aliqouted into the labled tubes, according to the table above. Samples were vortexed after addition of antibody and placed in the fridge for their incubation times. 
+
+7. After incubation, 1 mL of PBS was added to each sample tube, and samples were centrifuged at 300xg for 5 minutes to wash away any unbound antibody.
+
+8. Supernatent was discarded, and samples were resuspended in 100 uL of PBS.
+
+9. Samples were analyzed with the Aurora-4 spectral cytometer. 

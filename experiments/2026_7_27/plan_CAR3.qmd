@@ -5,18 +5,23 @@ date: 2026-07-27
 toc: TRUE
 theme: darkly
 ---
-CAR T cell sample was obtained from Rediet Mulatu. Cells were aliquoted into unfixed vs. fixed samples. 
 
-5 uL of TruStain FcX was added to each sample, and samples were allowed to incubate in the fridge for at least 5 minutes. 
+# Protocol
 
-While samples were incubating, 4% PFA fixative was obtained and diluted to 0.4% (10 uL of PFA and 90 uL of PBS were added to an eppendorf tube and mixed well). 
+CAR T cell sample was obtained by Rediet Mulatu from patient at APH and D14 time points. 5 uL of TruStain FcX was added to each sample, and samples were allowed to incubate in the fridge for at least 5 minutes.
 
-After incubation with FcX, each tube (containing 100 uL of cell solution) was split into 2 50 uL aliquots. These 4 samples were labled "unstained, unstained-fixed, 29C, 29C-fixed". 50 uL of the 0.4% PFA solution was added to the two samples labled for fixation, and these samples were incubated in the fridge for 20 minutes. 
-
-While samples were fixed, the antibody cocktail was prepared according to the following table:
+While samples were incubated with FcX, the antibody cocktail was prepared according to the following table:
 
 ![](/images/fullpanel.png)
 
-After fixation incubation, 500 uL of PBS was added to both samples containing fixative and these samples wee centrifuged at 300 xg for 5 minutes. Supernatent was discarded and samples were resuspended in 50 uL of PBS to match unfixed samples. 
+Cells were aliquoted into unstained, backbone, and full stain samples for both the APH and D14 samples. Antibody cocktail was added to the appropriate samples.
 
-Antibody cocktail was added to the appropriate samples & allowed to incubate overnight. 
+After overnight incubation, 1 mL of PBS was added to samples, which were then centrifuged at 300xg for 5 minutes. Supernatent was discarded and samples were resuspended in 180 uL of PBS.
+
+Backbone and full stain samples for both time points were then incubated for 15 minutes with 2 uL of CAR detection reagent, washed, and then stained with 1 uL of PE-biotin for CAR detection. 
+
+Samples were then washed once again, by centrifugation at 300xg for 5 mins. Supernatent was discarded and samples were once again resuspended in 180 uL of PBS. 
+
+5uL of 7-AAD viability dye was added to backbone and full stains, and allowed to incubate for 5 minutes in the fridge. 
+
+Samples were then anaylzed on the Aurora-4, and unmixed using the overnight SC controls collected on this day (7/28). 

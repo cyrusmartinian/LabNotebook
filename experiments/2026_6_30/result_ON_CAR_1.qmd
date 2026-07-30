@@ -20,19 +20,30 @@ About 80% of cells appeared to be alive after overnight incubation in fridge, th
 
 ## Full Panel (No Medium)
 
-Good marker resolution, however about 80% of cells were viable as determined with 7-AAD viability dye. No significant positive population was observed for CAR marker after gating on healthy, live, CD3 positive cells. 
+No significant positive population was observed for CAR marker after gating on healthy, live, CD3 positive cells. 
 
 
 ![](/images/LiveON_CAR1.png)
 
-![](/images/CARMarker_CAR1.png)
+![](/images/CAR1%20ON%20T%20cell%20markers.png)
 
+![](/images/CAR1%20ON%20pg%201%20markers.png)
+
+![](/images/CAR1%20ON%20pg%202%20markers.png)
+
+![](/images/CAR1%20ON%20pg%203%20markers.png)
 
 
 ## Full Panel (Medium)
 
 The inclusion of medium did increase the proportion of viable cells following overnight incubation as compared with the sample incubated in only running buffer. It appears that the inclusion of medium did impact antibody binding, and reduced resolution was observed for several markers when compared to the sample without medium. 
 
-*will include images of the above here*
-
 It was determined that in future experiments, medium is likely not a useful way to account for cell death during the long incubation, due to the impact on antibody binding and population resolution. Possible next steps include the use of different medium, or fixing cells prior to staining. 
+
+![](/images/CAR1%20ON-M%20T%20cell%20markers.png)
+
+![](/images/CAR1%20ON-M%20pg%201%20markers.png)
+
+![](/images/CAR1%20ON-M%20pg%202%20markers.png)
+
+![](/images/CAR1%20ON-M%20pg%203%20markers.png)

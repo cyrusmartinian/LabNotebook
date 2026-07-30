@@ -18,8 +18,6 @@ Fixed & Unfixed backbone stains were both unmixed with unfixed single color cont
 
 # Result of Fixed & Unfixed Backbone Stain on PBMCs
 
-*also include image of fixed & unfixed 7-AAD alone*
-
 
 
 # Result of unfixed single color stains on PBMCs

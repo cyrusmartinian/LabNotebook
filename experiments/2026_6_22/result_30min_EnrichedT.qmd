@@ -18,4 +18,12 @@ Unmixing was done using previously collected single stain contols (of cells or b
 
 The enriched T cells that were incubated for 30 minutes in the full panel (27 color) cocktail of antibodies were also analyzed with the Aurora 4 spectral cytometer. This panel had previously been run with a sequential staining protocol, wherein some antibody stains were added to the cell same earlier than others, based on reduced marker binding affinity or rarity of the marker. Somewhat surprisingly, most markers did still show resolution of positive and negative populations, although some were more clearly defined than others.
 
-**insert images of full panel stain populations here**
+![](/images/EnrichedT_30min_27C_BasicGates.png)
+
+![](/images/EnrichedT_30min_27C_TGates.png)
+
+![](/images/EnrichedT_30min_27C_pg1.png)
+
+![](/images/EnrichedT_30min_27C_pg2.png)
+
+![](/images/EnrichedT_30min_27C_pg3.png)

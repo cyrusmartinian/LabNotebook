@@ -41,11 +41,17 @@ Cells used today were part of a sample analyzed with the MACSQuant and determine
 
 There was a clear population of CD3 positive lymphocytes present in this population, and a sufficient number of cells to collect over 100k events. However, there was not a large or particularly clear population positive for the CAR marker. 
 
-*insert picture of scatter, CD3 and CAR marker plots here*
-
 It is possible that there inclusion of so many markers negatively impacted the staining and resolution of the CAR T detection reagent. There are several potential future experiments that could be run to assess this. 
 
 The next step planned is to stain CAR T cells with the CAR detection reagent overnight alongside the rest of the antibody cocktail, instead of staining seperately and washing off the CAR detection reagent before staining with the antibody cocktail. 
+
+![](/images/CAR2%2030min%20T%20cell%20markers.png)
+
+![](/images/CAR2%2030min%20pg%201%20markers.png)
+
+![](/images/CAR2%2030min%20pg%202%20markers.png)
+
+![](/images/CAR2%2030min%20pg%203%20markers.png)
 
 ## Backbone
 A smaller number of cells was available, with fewer CD3 positve cells compared to the sample stained with the full panel, however there was still a population of CD3 positive lymphocytes. Unlike the full panel, a resolvable population positive for the CAR detection marker was present. This supports the idea that the presense of so many antibodies in the full panel may be impacting the resolution of the CAR detection. 

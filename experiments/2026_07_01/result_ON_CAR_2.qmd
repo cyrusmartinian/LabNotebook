@@ -16,12 +16,28 @@ After incubation, these samples were washed with 1 mL of running buffer and cent
 
 # Full Panel
 
-The 30 min full panel stain had about 3% CAR positive population, however the overnight full panel had about 5% CAR positive, similar to the backbone sample. This similarity and the increase in CAR positive population could be due to non-specific staining of dead cells with CAR reagent.
+![](/images/CAR2_Full_Tcells.png)
+
+![](/images/CAR2_Full_CAR.png)
+
+The 30 min full panel stain had about small CAR positive population, however the overnight full panel had about almost no CAR positive, similar to the backbone sample. 
 
 # Backbone
 
-The 30 min backbone stain had about 11% CAR positive population, however the overnight backbone stain only had about 5% CAR positive, suggesting that using the CAR detection reagent before the rest of the antibodies is not effective for good resolution of CAR populations in overnight staining.  
+![](/images/CAR2_BB_Tcells.png)
+
+![](/images/CAR2_BB_CAR.png)
+
+The 30 min backbone stain had a small CAR positive population, however the overnight backbone stain only had about 2% CAR positive, suggesting that using the CAR detection reagent before the rest of the antibodies is not effective for good resolution of CAR populations in overnight staining.  
 
 # Full Panel With Rerun CAR Detection Reagent
 
+![](/images/CAR2_Full_Tcells_R.png)
+
+![](/images/CAR2_Full_CAR_R.png)
+
 # Backbone With Rerun CAR Detection Reagent
+
+![](/images/CAR2_BB_Tcells_R.png)
+
+![](/images/CAR2_BB_CAR_R.png)
