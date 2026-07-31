@@ -32,7 +32,6 @@ website:
       href: https://github.com/CyrusMartinian/LabNotebook
       aria-label: GitHub
   sidebar:
-    style: floating
     collapse-level: 1
     contents:
     - section: "June 22nd 2026"
