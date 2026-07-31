@@ -1,5 +1,5 @@
 ---
-title: "Testing Fixation & Overnight Fixation on CAR T cells"
+title: "30 minute & Overnight Staining of Sigle Color Controls on Enriched T cells"
 author: "Cyrus Martinian"
 date: 2026-07-27
 toc: TRUE

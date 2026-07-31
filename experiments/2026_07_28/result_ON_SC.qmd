@@ -1,0 +1,29 @@
+---
+title: "30 minute & Overnight Staining Flurophore Signature Comparisons"
+author: "Cyrus Martinian"
+date: 2026-07-28
+toc: TRUE
+theme: darkly
+---
+
+In order to asses whether overnight staining requires overnight stained single color controls for accurate unmixing, something we suspected might be true due to consistent umixing error visible for some markers such as CD8, we compared the spectral signatures of our 2 sets of SC controls.
+
+This was done by subtracting autofluorescence from the SC control, and then using a program written by David to graph the normalized fluorescence intensity of the fluorophore across all 54 detectors of the Aurora-4.
+
+Here are the spectra of BV510-CD8 single color controls stained for 30 minutes and overnight, overlayed:
+
+![](/images/BV510%20Signature%20Comparison.png)
+
+While they look very similar, here is a comparison of unmixing the same data (from the overnight stain of the D14 sample), where the only difference is the SC control provided for CD8
+
+![30 minute](/images/Bad%20unmixing%20CD8%20D14.png)
+
+![Overnight](/images/Good%20unmixing%20CD8%20D14.png)
+
+Clearly, even this small difference in fluorescent signature between SC controls is enough to change unmixing enough that it is visible.
+
+For comparison, here are the overlayed signatures for BUV496-CD4, which had not previously shown any sign of unmixing error.
+
+![](/images/BUV496.png)
+
+These two signatures are so similar, despite their different staining times, that they appear as one line. In the future, investigation of what fluorophores change during overnight staining could be useful.

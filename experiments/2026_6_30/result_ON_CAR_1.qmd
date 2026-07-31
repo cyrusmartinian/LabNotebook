@@ -6,7 +6,6 @@ toc: TRUE
 theme: darkly
 ---
 
-
 # Results of Overnight Backbone Stain
 
 About 80% of cells appeared to be alive after overnight incubation in fridge, this was determined with 7-AAD viability dye. Markers included in the backbone stained well enough to allow for populations to be resolved, however, as anticipated based on analysis of the cells used with the MACSQuant, the CAR reagent & biotin markers (RR688 & PE fluorophores) did not show positive populations. 

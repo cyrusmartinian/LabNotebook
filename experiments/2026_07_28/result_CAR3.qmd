@@ -1,0 +1,23 @@
+---
+title: "Result of Overnight Staining Protocol CAR T cells"
+author: "Cyrus Martinian"
+date: 2026-07-28
+toc: TRUE
+theme: darkly
+---
+
+The protocol we have decided to use for staining of CAR T clinical samples appears promising, and was presented using this flow chart:
+
+![](/images/CAR_protocol.png)
+
+Since there was an APH as well as a D14 sample stained this time, we were able to confirm that our protocol does not result in excessive non-specific staining of the CAR detection marker. This is shown below, by the fact that our CAR + populatoon is only visible in the D14 sample from this patient.
+
+![](/images/CAR_3%20APH.png)
+
+![](/images/CAR_3%20D14.png)
+
+We also saw clear resolutions for populations positive and negative for CD319, an activation marker known to be hard to resolve in high-parameter panels
+
+![](/images/CAR_3%20cd319%20APH.png)
+
+![](/images/CAR_3%20cd319%20D14.png)
