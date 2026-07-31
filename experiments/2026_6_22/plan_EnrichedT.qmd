@@ -1,5 +1,5 @@
 ---
-title: "Backbone Stain Protocol"
+title: "Staining Enriched T cells - Sequential & Overnight Protocols"
 theme: darkly
 author: "Cyrus Martinian"
 date: 2026-06-23
