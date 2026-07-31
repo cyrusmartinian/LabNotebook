@@ -37,51 +37,51 @@ website:
     - section: "June 22nd 2026"
       contents:
       - text: "Staining Enriched T cells"
-        href: /docs/experiments/2026_6_22/plan_EnrichedT.html
+        href: /experiments/2026_6_22/plan_EnrichedT.qmd
       - text: "Single Color Controls"
-        href: /docs/experiments/2026_6_22/plan_single_EnrichedT.html
+        href: /experiments/2026_6_22/plan_single_EnrichedT.qmd
       - text: "Result of Sequential Stain"
-        href: /docs/experiments/2026_6_22/result_30min_EnrichedT.html
+        href: /experiments/2026_6_22/result_30min_EnrichedT.qmd
     - section: "June 23rd 2026"
       contents:
       - text: "Result of Overnight Stain"
-        href: /docs/experiments/2026_6_23/result_ON_EnrichedT.html
+        href: /experiments/2026_6_23/result_ON_EnrichedT.qmd
     - section: "June 29th 2026"
       contents:
       - text: "Overnight & 30 min Staining of CAR T cells"
-        href: /docs/experiments/2026_6_29/plan_CAR_1.html
+        href: /experiments/2026_6_29/plan_CAR_1.qmd
       - text: "Result of 30 min Stain of CAR T cells"
-        href: docs/experiments/2026_6_29/result_30min_CAR_1.html
+        href: /experiments/2026_6_29/result_30min_CAR_1.qmd
     - section: "June 30th 2026"
       contents:
       - text: "Staining of CAR T cells and 30 min Result"
-        href: /docs/experiments/2026_6_30/plan_and_result_30min_CAR_2.html
+        href: /experiments/2026_6_30/plan_and_result_30min_CAR_2.qmd
       - text: "Result of Overnight Stain of CAR T cells"
-        href: docs/experiments/2026_6_30/result_ON_CAR_1.html
+        href: /experiments/2026_6_30/result_ON_CAR_1.qmd
     - section: "July 1st 2026"
       contents:
       - text: "Result of Overnight stain & Re-stain of CAR T cells"
-        href: /docs/experiments/2026_07_01/result_ON_CAR_2.html
+        href: /experiments/2026_07_01/result_ON_CAR_2.qmd
     - section: "July 7th 2026"
       contents:
       - text: "Fixation & Overnight Staining of PBMCs"
-        href: /docs/experiments/2026_07_07/plan_ON_fixed_PBMC.html
+        href: /experiments/2026_07_07/plan_ON_fixed_PBMC.qmd
     - section: "July 8th 2026"
       contents:
       - text: "Results of Fixation & Overnight Stain of PBMCs"
-        href: /docs/experiments/2026_07_08/result_ON_PBMC.html
+        href: /experiments/2026_07_08/result_ON_PBMC.qmd
     - section: "July 27th 2026"
       contents:
       - text: "Revised Protocol Overnight CAR T Stain"
-        href: /docs/experiments/2026_07_27/plan_CAR3.html
+        href: /experiments/2026_07_27/plan_CAR3.qmd
       - text: "30 Minute & Overnight SC Controls"
-        href: /docs/experiments/2026_07_27/plan_EnrichedT_SC.html
+        href: /experiments/2026_07_27/plan_EnrichedT_SC.qmd
     - section: "July 28th 2026"
       contents:
       - text: "Results of Overnight CAR T Stain"
-        href: /docs/experiments/2026_07_28/result_CAR3.html
+        href: /experiments/2026_07_28/result_CAR3.qmd
       - text: "Results of 30 Minute & Overnight SC Controls"
-        href: /docs/experiments/2026_07_28/result_ON_SC.html
+        href: /experiments/2026_07_28/result_ON_SC.qmd
         
         
 
